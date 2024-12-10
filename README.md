@@ -1,3 +1,3 @@
 # safari
 this is my personal project
-author- apna
+author- apna group of colleges
